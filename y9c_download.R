@@ -1,3 +1,5 @@
+##Modified based on https://github.com/bertcarnell/fry9c/blob/master/R/get_fry9c_data.R
+
 rm(list=ls())
 setwd('set your working directory here')
 
