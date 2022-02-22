@@ -5,7 +5,7 @@ The banking data in the U.S. are difficult to navigate, and there are limited sy
 
 ### Key Results
 - **Spatial analysis of banking** 
-   - The map below shows bank branch closures (during 2017-2021) near the Orleans Parish, LA, due to factors such as Covid-19 (*Source: FDIC*)
+   - The map below shows bank branch closures (during 2017-2021) near the Orleans Parish, Louisiana, due to factors such as Covid-19 (*Source: FDIC*)
 ![](https://github.com/tengtedliu/us_banking_data/blob/main/graphics/branch.jpg)
 
 
